@@ -2,278 +2,278 @@
     "dev": "anirbansumon",
     "channels": [
         {
-            "name": "bein Sports",
-            "url": "https://cdn3.zohanayaan.com:1686/hls/beinusas.m3u8?md5=I7CTOdicmM-W-H5T-iWBhg&expires=1779571907",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports 5",
-            "url": "https://cdn8.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=xQnDtPVSSKW1hT1gc8xxBQ&expires=1779571918",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Star Sports 1",
-            "url": "https://oz2.bhalocast.com:7060/hls/star1kibich4.m3u8?md5=08dK5oh93cuEQzKinoH5gQ&expires=1779571930&ch=star1kibich4&s=191f0400882375c1223e18757d104b99",
-            "referer": "https://bhalocast.com/",
-            "origin": "https://bhalocast.com"
-        },
-        {
-            "name": "ESPN Deportes",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=Hw0XNLsrT2Ki-QnwKvxPJQ&expires=1779571940",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Ten Sports",
-            "url": "https://cdn4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=FRGraFf_zZFawgC7Pp-SpA&expires=1779571951",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Fox Sports 2",
-            "url": "https://cdn9.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=qI3wY6owY815_Ye-RrTYag&expires=1779571969",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Willow Extra",
-            "url": "https://oz1.bhalocast.com:7060/hls/wextres4.m3u8?md5=DYyjgH5bJUdcNM_r9k3OUQ&expires=1779571979&ch=wextres4&s=aab727d13ade12512c1347753498c7dd",
-            "referer": "https://bhalocast.com/",
-            "origin": "https://bhalocast.com"
-        },
-        {
-            "name": "Fox Sports 1",
-            "url": "https://cdn7.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=qEp_qQEu7R2IjhLpDPbZJQ&expires=1779571988",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports 6",
-            "url": "https://cdn8.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=fhrExjDfxGRl6KFXTAXvHg&expires=1779571998",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "willow HD 2",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=IP-mMlMDPrJ658W0xitxkg&expires=1779572007",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports laliga 2",
-            "url": "https://cdn3.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=ZSycsSEJoFpkkSRkF1bTrQ&expires=1779572016",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Willow",
-            "url": "https://oz1.bhalocast.com:7060/hls/willowala4.m3u8?md5=VZffbqJazlc1gSBrvQltMw&expires=1779572029&ch=willowala4&s=0838736ef9924bd488b9b5b62ba3761e",
-            "referer": "https://bhalocast.com/",
-            "origin": "https://bhalocast.com"
-        },
-        {
-            "name": "PTV Sports",
-            "url": "https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=sBjS-S19m2QyI_TLRC7WRA&expires=1779572038",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Fox Soccer Plus",
-            "url": "https://cdn2.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=W4smYJ75wEWcxHZ4MRYucA&expires=1779572071",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Fox Deportes",
-            "url": "https://cdn4.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=r4ZyBDfK01SwArwE46VTvg&expires=1779572093",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Espn 1",
-            "url": "https://cdn8.zohanayaan.com:1686/hls/espnusa.m3u8?md5=CVToeclK8PKi67AOHM11-Q&expires=1779572103",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "TNT Sports",
-            "url": "https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=cncTq0D5_kYWmSOvIcsTXw&expires=1779572112",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Telmunda Sports",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/telmunda.m3u8?md5=KvtO4VVgC6oBVA_NhuL9Hg&expires=1779572123",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Asian Sports Cricket",
-            "url": "https://dz5.bhalocast.pro:7059/hls/asportspk.m3u8?md5=Mt8WAyZxjLQkSWR2HnVYuQ&expires=1779572136&ch=asportspk&s=44db2a7be42c0182730c7c9741509084",
-            "referer": "https://bhalocast.pro/",
-            "origin": "https://bhalocast.pro"
-        },
-        {
-            "name": "willow HD",
-            "url": "https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=5Q8k2AB86EddF2dkdTutUQ&expires=1779572146",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Mvemosa Sports",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=7u0Wmni8SsbLHZIbVnqvfw&expires=1779572156",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Premim Sports 1",
-            "url": "https://cdn8.zohanayaan.com:1686/hls/premieruk.m3u8?md5=qYGEtkNCzJhnzIRVBPRXXA&expires=1779572165",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "A Sports",
-            "url": "https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=vwYdjjS2y5OzXYdJTzVWuA&expires=1779572177",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Lalega Sports 2",
-            "url": "https://cdn2.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=Adp_gMSsRfnnnvMisclduw&expires=1779572185",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "lalega Sports",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/laligauk.m3u8?md5=UwFYvmInhEZNza5ymycumg&expires=1779572196",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports Football",
-            "url": "https://cdn3.zohanayaan.com:1686/hls/skysfott.m3u8?md5=s3uGjqyT30fpWtHeENkKYQ&expires=1779572206",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Deportes ports",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=-t4a1UFXnvgKGj7eoFukbg&expires=1779572217",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports Tennis",
-            "url": "https://cdn10.zohanayaan.com:1686/hls/skystennis.m3u8?md5=omB0RLKhREeJPEsRUwVvOQ&expires=1779572227",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Star Sports 1 hindi",
-            "url": "https://oz1.bhalocast.com:7060/hls/str1lhil4.m3u8?md5=kFEbWdVl4SAht7cklX9wWA&expires=1779572238&ch=str1lhil4&s=e23f3cc6f46b2c385cc47c0e2687966d",
-            "referer": "https://bhalocast.com/",
-            "origin": "https://bhalocast.com"
-        },
-        {
-            "name": "NBC Sports Now",
-            "url": "https://cdn8.zohanayaan.com:1686/hls/nbccs.m3u8?md5=3FxdHiROPNUipjhqbqSoTg&expires=1779572247",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports Cricket",
-            "url": "https://dz5.bhalocast.pro:7059/hls/dodosky2.m3u8?md5=3gKl7wqheCO673vhWBAmkg&expires=1779572258&ch=dodosky2&s=22fd8bcafb63333a57b06de33f53c68c",
-            "referer": "https://bhalocast.pro/",
-            "origin": "https://bhalocast.pro"
-        },
-        {
-            "name": "Lalega Sports",
-            "url": "https://cdn4.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=qPxUoB30RUhTRGRi2sdwew&expires=1779572268",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports 3",
-            "url": "https://cdn3.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=io_h0cykaxnTS99nNVJojg&expires=1779572280",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "BBC News",
-            "url": "https://cdn4.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=9PMpsVFoQ-hS71zS8lvpMA&expires=1779572291",
+            "name": "Sky Sports 4",
+            "url": "https://cdn3.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=MwsUY4-_zFWwKACwTiGxGQ&expires=1779584613",
             "referer": "https://executeandship.com/",
             "origin": "https://executeandship.com"
         },
         {
             "name": "Tudn Sports",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=6NkNSXmNj-L0KPnyFNPnLQ&expires=1779572303",
+            "url": "https://cdn3.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=_vULwUL_Zox_WwO38riUsQ&expires=1779584623",
             "referer": "https://executeandship.com/",
             "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports 2",
-            "url": "https://cdn2.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=fgtVt1ZW7p6p5uuOqG4ktA&expires=1779572314",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "TNT Sports 2",
-            "url": "https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=zsqmkS2bTVtXOzwSQ2CXXA&expires=1779572326",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Ptv Sports Cricket",
-            "url": "https://oz1.bhalocast.com:7060/hls/ptvskpr.m3u8?md5=_Qb8uTCqknQSTKk3t89XuQ&expires=1779572338&ch=ptvskpr&s=b9ad2b55acde87e99999037804f12f1f",
-            "referer": "https://bhalocast.com/",
-            "origin": "https://bhalocast.com"
-        },
-        {
-            "name": "Sky Sports 7",
-            "url": "https://cdn4.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=2kWgPNRIR4F4BI-F2RN9gQ&expires=1779572345",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "TNT Sports 1",
-            "url": "https://cdn5.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=IzLzZ4USnv2A0GN6D0FRgw&expires=1779572354",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Willow HD",
-            "url": "https://dz5.bhalocast.pro:7059/hls/hdwillos4.m3u8?md5=YsNQbYYXNZmofE2ermJzgA&expires=1779572366&ch=hdwillos4&s=221ee0db93c6eda541c17941018b50d5",
-            "referer": "https://bhalocast.pro/",
-            "origin": "https://bhalocast.pro"
         },
         {
             "name": "Sky Sports Action",
-            "url": "https://cdn4.zohanayaan.com:1686/hls/skysact.m3u8?md5=077JvTw5Hxmc65xGpz_lIg&expires=1779572373",
+            "url": "https://cdn5.zohanayaan.com:1686/hls/skysact.m3u8?md5=xU9QscFXDnNgupu8fFSw7Q&expires=1779584632",
             "referer": "https://executeandship.com/",
             "origin": "https://executeandship.com"
         },
         {
-            "name": "Sky Sports laliga",
-            "url": "https://cdn4.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=Kj1G7wXDouU7jOETMRocRw&expires=1779572384",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Sky Sports 4",
-            "url": "https://cdn9.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=jCH8oL9aAqwRrtRzESi3dg&expires=1779572396",
-            "referer": "https://executeandship.com/",
-            "origin": "https://executeandship.com"
-        },
-        {
-            "name": "Ten Sports",
-            "url": "https://cdn2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=XJ4LR5pglLwqhi2yiEGLyw&expires=1779572408",
+            "name": "Sky Sports Football",
+            "url": "https://cdn5.zohanayaan.com:1686/hls/skysfott.m3u8?md5=GN5xOGt3Y4wF6BJIwKqfPA&expires=1779584644",
             "referer": "https://executeandship.com/",
             "origin": "https://executeandship.com"
         },
         {
             "name": "Espn Nba",
-            "url": "https://cdn6.zohanayaan.com:1686/hls/espn2.m3u8?md5=oHmvxdhKJxdGaaMfKNTzHw&expires=1779572417",
+            "url": "https://cdn7.zohanayaan.com:1686/hls/espn2.m3u8?md5=tunFZGhH_xU6ltiD_2nDyQ&expires=1779584655",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Sky Sports 3",
+            "url": "https://cdn6.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=t1kgZlvgDr0PbYIQ2moJ0A&expires=1779584665",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "TNT Sports",
+            "url": "https://cdn6.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=_kplZ_MEP6E4IaozffXMLQ&expires=1779584677",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Mvemosa Sports",
+            "url": "https://cdn10.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=Yn2UqV320-UQ_LJZ4YWMoQ&expires=1779584687",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Lalega Sports",
+            "url": "https://cdn5.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=XUZQQXX-LQHo9rJIAmlQGA&expires=1779584697",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Espn 1",
+            "url": "https://cdn4.zohanayaan.com:1686/hls/espnusa.m3u8?md5=P0mXSSOVkXuaMRe_-UAmBw&expires=1779584709",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Deportes ports",
+            "url": "https://cdn8.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=V9UQ5GhB0EHGXA110YFtBg&expires=1779584718",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "willow HD",
+            "url": "https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=9J34Al6-Fj6Bn8pEJIiSwA&expires=1779584729",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "NBC Sports Now",
+            "url": "https://cdn4.zohanayaan.com:1686/hls/nbccs.m3u8?md5=LRibLtR0bisiY16Fx3NtlQ&expires=1779584750",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Sky Sports 5",
+            "url": "https://cdn9.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=hgQ54fn9gcycOKl9jJoyKQ&expires=1779584760",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Asian Sports Cricket",
+            "url": "https://dz5.bhalocast.pro:7059/hls/asportspk.m3u8?md5=dsYzwn79CwvRMqUl9f73dQ&expires=1779584775&ch=asportspk&s=85050411f2deb773e1f02e92b34acd85",
+            "referer": "https://bhalocast.pro/",
+            "origin": "https://bhalocast.pro"
+        },
+        {
+            "name": "Lalega Sports 2",
+            "url": "https://cdn5.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=_mD8I3GcoRqvHAEDapboaw&expires=1779584797",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Sky Sports 7",
+            "url": "https://cdn4.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=Q5bbt4ETnED_fPyJrtjLsg&expires=1779584817",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Star Sports 2",
+            "url": "https://oz2.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=YfLleYpldz0R4pN5ZEvZnQ&expires=1779584830&ch=cf0sp1&s=fdd1bd0edbf14b7c118d63184f69d655",
+            "referer": "https://bhalocast.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "ESPN Deportes",
+            "url": "https://cdn10.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=wtKDQr6z5d5eF6uQ95jryg&expires=1779584838",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Sky Sports Cricket",
+            "url": "https://dz5.bhalocast.pro:7059/hls/dodosky2.m3u8?md5=gPtFv0hFvhAeFmulX-Q7gQ&expires=1779584852&ch=dodosky2&s=9d788f894ee07b7cb912bf625edda1ae",
+            "referer": "https://bhalocast.pro/",
+            "origin": "https://bhalocast.pro"
+        },
+        {
+            "name": "Fox Soccer Plus",
+            "url": "https://cdn7.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=gpb1EEQofUpx9YlY9YJfeQ&expires=1779584859",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Willow",
+            "url": "https://oz2.bhalocast.com:7060/hls/star1kibich4.m3u8?md5=vSKGbRFoYNJSr_PV8apBTQ&expires=1779584872&ch=star1kibich4&s=60667804b782db62044fa634611d0817",
+            "referer": "https://bhalocast.com/",
+            "origin": "https://bhalocast.com"
+        },
+        {
+            "name": "Fox Deportes",
+            "url": "https://cdn10.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=oKKaxb9sh7d0vMOo295_oQ&expires=1779584882",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Ten Sports",
+            "url": "https://cdn2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=9Qfspr8CkcMJD7nqjzSeng&expires=1779584893",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Telmunda Sports",
+            "url": "https://cdn7.zohanayaan.com:1686/hls/telmunda.m3u8?md5=jx9khBnVNHEWYEvtTmDKQw&expires=1779584902",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "bein Sports",
+            "url": "https://cdn10.zohanayaan.com:1686/hls/beinusas.m3u8?md5=oXQNYCXJ16rPTn8sJG93AQ&expires=1779584911",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Willow HD",
+            "url": "https://dz5.bhalocast.pro:7059/hls/hdwillos4.m3u8?md5=5UXX6bj_ZA7rBKBMxqPhBQ&expires=1779584926&ch=hdwillos4&s=209bd52cf7fda4d9baabf7729baa1749",
+            "referer": "https://bhalocast.pro/",
+            "origin": "https://bhalocast.pro"
+        },
+        {
+            "name": "Sky Sports laliga 2",
+            "url": "https://cdn5.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=Osvm1mfxFJj7T17vh3JBjg&expires=1779584934",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Ten Sports",
+            "url": "https://cdn6.zohanayaan.com:1686/hls/tenspk.m3u8?md5=PxTs9_7yYG3jYceMD7BHhg&expires=1779584942",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Fox Sports 2",
+            "url": "https://cdn6.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=YsbabvEmF4J5z7AtRrdIlw&expires=1779584953",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Sky Sports 2",
+            "url": "https://cdn7.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=7IaQ5wRm1VYvKkX848Gh2g&expires=1779584962",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Fox Sports 1",
+            "url": "https://cdn8.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=ih3JC9GnQ6ulBUJ37emrHw&expires=1779584972",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "lalega Sports",
+            "url": "https://cdn7.zohanayaan.com:1686/hls/laligauk.m3u8?md5=hxxmgOBSzRor0tp27GO9EA&expires=1779584982",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Premim Sports 1",
+            "url": "https://cdn1.zohanayaan.com:1686/hls/premieruk.m3u8?md5=jVA-VkCNcXkwUhNhelC2aQ&expires=1779584993",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Ptv Sports Cricket",
+            "url": "https://dz4.bhalocast.com:7060/hls/ptvskpr.m3u8?md5=pSinmGz29NVXQIwj0io8dA&expires=1779585004&ch=ptvskpr&s=640254845e06d8960b808fe2727fc70f",
+            "referer": "https://bhalocast.com/",
+            "origin": "https://bhalocast.com"
+        },
+        {
+            "name": "willow HD 2",
+            "url": "https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=peHTDOjJwklZ1uC6kRe0qg&expires=1779585012",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "A Sports",
+            "url": "https://cdn10.zohanayaan.com:1686/hls/asportshd.m3u8?md5=3d01tT0JDZXI_fe2-BgwDQ&expires=1779585033",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "BBC News",
+            "url": "https://cdn1.zohanayaan.com:1686/hls/hdchnl1.m3u8?md5=fxipoqG8bO6c-rgkjeysLA&expires=1779585044",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Sky Sports 6",
+            "url": "https://cdn6.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=wiq6R4fLxfuzjxgTJXzxLA&expires=1779585055",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Willow Extra",
+            "url": "https://dz4.bhalocast.com:7060/hls/wextres4.m3u8?md5=Nzj6040dXEujf7mACOgowQ&expires=1779585067&ch=wextres4&s=685ef7a14aab004b2785bcc864ff757a",
+            "referer": "https://bhalocast.com/",
+            "origin": "https://bhalocast.com"
+        },
+        {
+            "name": "Sky Sports Tennis",
+            "url": "https://cdn7.zohanayaan.com:1686/hls/skystennis.m3u8?md5=IcRrWpZJD2Z8ZVBtNcCHcw&expires=1779585077",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "TNT Sports 1",
+            "url": "https://cdn5.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=0zW7DpU2FZ9eFBW8Xwq2rQ&expires=1779585085",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "TNT Sports 2",
+            "url": "https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=hUHUnvGw0NposHTfJocwGg&expires=1779585097",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Star Sports 1 hindi",
+            "url": "https://dz4.bhalocast.com:7060/hls/str1lhil4.m3u8?md5=6fMIeR9Dyx70y_9zMFq9tA&expires=1779585111&ch=str1lhil4&s=af4d3e859ed894710f7a8959673acb50",
+            "referer": "https://bhalocast.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "Sky Sports laliga",
+            "url": "https://cdn1.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=3KsJ843aTHCRtTNdwk8SAg&expires=1779585121",
+            "referer": "https://executeandship.com/",
+            "origin": "https://executeandship.com"
+        },
+        {
+            "name": "PTV Sports",
+            "url": "https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=aHXLmlRmnVUxPg_kuPVKGw&expires=1779585129",
             "referer": "https://executeandship.com/",
             "origin": "https://executeandship.com"
         }
